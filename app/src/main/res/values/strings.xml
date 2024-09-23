@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="truebottom" translatable="false">verdadero</string>
+    <string name="falsebottom" translatable="false">falso</string>
+    <string name="next_button" translatable="false">Next</string>
+    <string name="back_button" translatable="false">Back</string>
+</resources>
